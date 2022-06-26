@@ -1,1 +1,17 @@
 # CS370
+
+1) Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
+
+In this project, we were tasked with implementing an intelligence agent within a treasure hunting game using reinforcement learning and neural networks. Some aspects of the project were provided such as the game model and logic. We were also provided with code designed to visualize the behavior of the agent as well as code to test our implementation. The code that was absent included the implementation of the neural network and reinforcement algorithms. Several of the variables required for the Q-learning model were provided, but the logic within each epoch had to be created. This required the creation of a loop to iterate until either the agent achieves a 100% win rate or the maximum number of epochs is reached. Within this loop exists another loop that simulates a game by calling upon code provided in a separate file. This runs until the agent either finds the treasure or loses the game and updates the loss based on its evaluation of that episode's performance. 
+
+2) What do computer scientists do and why does it matter?
+
+Computer scientists are researchers who study how computers store and utilize information. They are often tasked with formulating new theories or concepts to better understand and make use of computers in everyday life. These solutions often require knowledge and information from the fields of physics and mathematics. The field of computer science is incredibly important in today’s society where systems are becoming more common and more advanced. The study of computers has revolutionized the world over the past several decades and has improved the quality of life for large portions of society. In order to continue progressing and advancing the implementation of computers, specialized scientists will be required to explore new possibilities to solve new problems. This is why computer scientists and the study of computers are so crucial to society. 
+
+3) How do I approach a problem as a computer scientist?
+
+As a computer scientist, I approach problems using the scientific method and explore ways to solve the problem using computer systems. This process often involves forming a hypothesis and then testing the hypothesis for the intended behavior. From both observations and research, I can use computers as a tool to solve problems within the physical world. 
+
+4) What are my ethical responsibilities to the end user and the organization?
+
+There are many ethical responsibilities as a computer scientist, especially when regarding machine learning and intelligent systems. We have a duty to provide beneficial solutions to the end users while considering their needs and wants. Much like the Hippocratic Oath, the idea of “do no harm” must apply to solutions provided by computer systems. Under no circumstances should these applications be designed to hurt or take advantage of the end user. We also have a responsibility to the organization to provide solutions that are in line with their values as long as these values do not harm the end user. As a member of a company or organization, the products delivered must adhere to regulations and rules set forth by both the organization and society. We must consider the effects that certain technologies will have on the world and make all efforts to remove personal biases from our work.
